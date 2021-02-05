@@ -8,8 +8,6 @@ weight: 3
 
 ![me](/me.png)
 
-<br>
-
 # <center><strong> Hi! I'm {{ site.author.name }} :wave: </strong></center> <br>
 #### <center><strong> I'm a teacher transitioning into Learning Experience Design</strong></center>
 
