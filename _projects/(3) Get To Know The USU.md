@@ -29,7 +29,7 @@ description: Interactive map of CSUN's USU.
 
 ## Overview
 
-As I entered college, I was intimidated with the size of the campus and quickly got confused as to what was where. The maps that I found online were difficult to understand and provided too much information at once for me to really understand where things really were. I stumbled across this project from the E-Learning Heroes website where they help someone get to know their own site though an interactive map. I really enjoyed the isometric design and the functionality of the objects in the project and so I wanted to try my own hand at something similar. I combined this idea with my experience in college and created a recreation of the Student Union at California State University, Northridge.
+As I entered college, I was intimidated with the size of the campus and quickly got confused as to what was where. The maps that I found online were difficult to understand and provided too much information at once for me to really understand where things really were. I stumbled across [this project](https://community.articulate.com/e-learning-examples/storyline-get-to-know-your-site) from the E-Learning Heroes website where they help someone get to know their own site though an interactive map. I really enjoyed the isometric design and the functionality of the objects in the project and so I wanted to try my own hand at something similar. I combined this idea with my experience in college and created a recreation of the Student Union at California State University, Northridge.
 
 <br>
 
