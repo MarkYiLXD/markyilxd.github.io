@@ -32,13 +32,13 @@ description: Digitalized version of flashcards used to aid early childhood devel
 
 For much of my mathematics education, I was memorizing math facts. Whether it was through flashcards or through timed tests, I would practice math facts and needed my teachers to provide me more material. 
 
-Many children become acclamated to technology at a very young age. My adolescence was filled with those flashcards and timed tests but they were all on paper. Children are growing up in a new world where they are surrounded by technology and are incredibly technologically savvy.
+Many children become acclimated with technology at a very young age. My adolescence was filled with those flashcards and timed tests but they were all on paper. Children are growing up in a new world where they are surrounded by technology and are incredibly technologically savvy.
 
 <br>
 
 ## Challenge
 
-New times call for new resources. It only makes sense that pencil and paper will be boring for a student that has grown up with much more engaging stimulus. Old flashcards require students to sit in place and feel idle while the person in front of them is changing cards after card. The learner has no feeling being in charge of their own learning.
+New times call for new resources. It only makes sense that pencil and paper will be boring for a student that has grown up with much more engaging stimulus. Old flashcards require students to sit in place and feel idle while the person in front of them is changing cards after card. The learner does not feel like they are charge of their own learning.
 
 <br>
 
@@ -66,7 +66,7 @@ The first option presented a more traditional approach to the flashcards. Also, 
 
 ## Development
 
-Storyline 360 was used to develop the flashcards. With my programming experience, I recognized a lot of potential in the random number variable that Storyline has. The left side of the equation used two variables that ouputted random numbers from 0-12. The right side gave a random number 0-24. There were initially two options for problems: addition and subtraction.
+Storyline 360 was used to develop the flashcards. With my programming experience, I recognized a lot of potential in the random number variable that Storyline has. The left side of the equation used two variables that ouputted random numbers from 0-12. The right side gave a random number 0-24. There were initially two options for problems: random addition and random subtraction.
 
 However, the development was not so simple.
 
@@ -80,7 +80,7 @@ A conditional statement was placed so that if the second number was larger than 
 
 **Issue 2:**
 
-Since the right side was also random, there was only a 1/24 chance that the equation would actually be correct. The learner's experience would be negatively impacted as there should be an equal chance between right and wrong. 
+Since the right side was also random, there was only a small percentage chance that the equation would actually be correct. The learner's experience would be negatively impacted as there should be an equal chance between right and wrong. 
 
 **Solution 2:**
 

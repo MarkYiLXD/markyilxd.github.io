@@ -49,7 +49,7 @@ I created this project for three reasons:
 
 ## Challenge
 
-I wanted to create a quiz that was similar to the Can't Unsee game. I found the "Compare" button to be a strong learning tool. Instead of just knowing you did something wrong, the comparison of the right and wrong answers allowed for learners to continue engaging past the question. The learner continues to learn even if they make a mistake.
+I wanted to create a quiz that was similar to the Can't Unsee game. I found the "Compare" button to be a strong learning tool. Instead of just knowing you did something wrong, the comparison of the right and wrong answers allowed for learners to continue engaging past their own answer. The learner continues to learn even if they make a mistake.
 
 <br>
 
@@ -62,7 +62,7 @@ Create a quiz which tests one's understanding of the visual design principle: co
 
 ## Design and Development
 
-Storyline 360 was used to build a custom quiz game that allows learners to test their understanding of "Contrast". Animation paths and layers were used to improve User Experience. When a user chooses an answer, the options merge into one and the user can click on the "Compare" button to compare the two options.
+Storyline 360 was used to build a custom quiz game that allows learners to test their understanding of "Contrast". Animation paths and layers were used to improve user experience. When a user chooses an answer, the options merge into one and the user can click on the "Compare" button to compare the two options.
 
 <br>
 

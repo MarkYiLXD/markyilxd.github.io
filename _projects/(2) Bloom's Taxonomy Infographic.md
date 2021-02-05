@@ -43,7 +43,6 @@ As I study about the field of Learning and Development, I come across many theor
 
 As I studied adult learning theories and concepts related to Learning and Development, I come across many infographics that pack all of the information in one screen. Personally, I find it difficult to process all of the information being presented to me when it is shown all at once.
 
-
 <br>
 
 ## Goal
@@ -54,7 +53,7 @@ Reduce cognitive overload when learning about Bloom's Taxonomy.
 
 ## Design and Development
 
-The pyramid amd varied colors are iconic to Bloom's Taxonomy infographics so I wanted to keep the recognizable look. Instead of compacting all of the information onto one screen, Storyline 360 allows for the use of triggers to enable layers which I used to display the relevant information. I also experimented with object states so that the users will be able to intuitively recognize that each section of the pyramid has more information.
+The pyramid and varied colors are iconic to Bloom's Taxonomy infographics so I wanted to keep the recognizable look. Instead of compacting all of the information onto one screen, Storyline 360 allows for the use of triggers to enable layers which I used to display the relevant information. I also experimented with object hover states so that the users will be able to intuitively recognize that each section of the pyramid has more information.
 
 <br>
 
