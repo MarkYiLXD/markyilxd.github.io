@@ -6,23 +6,9 @@ weight: 3
 ---
 <!--![alt text](https://bit.ly/2TOsM7B "Building Image")-->
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![me](/me.png)
 
-
-
-
-
+<br>
 
 # <center><strong> Hi! I'm {{ site.author.name }} :wave: </strong></center> <br>
 #### <center><strong> I'm a teacher transitioning into Learning Experience Design</strong></center>

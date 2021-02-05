@@ -1,5 +1,5 @@
 ---
-name: Calculi.io
+name: Calcul.io
 tools: [Articulate Storyline]
 image: /calc/home.png
 description: Interactive math resource which teaches students important Calculus theorems.
